@@ -1,0 +1,10 @@
+
+#docker build can be execute manually or by jenkins.
+
+
+$cd docker-demo
+$is
+Dockerfile index.js package.json
+$docker build.
+[...]
+$

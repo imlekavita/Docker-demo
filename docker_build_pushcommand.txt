@@ -1,0 +1,7 @@
+Docker build & push command
+
+$ docker build -t myapp-repository-url/myapp //push and run ecr
+$ 'aws ecr get-login'
+$docker push  myapp-repository-url/myapp //send this image tp ecr
+
+
